@@ -1,3 +1,3 @@
 # Contributors List
-1 marvellous
-2 DON-BRAN
+1. Marvellous
+2. DON-BRAN
