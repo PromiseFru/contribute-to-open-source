@@ -34,14 +34,14 @@ cd contribute-to-open-source
 Now create a branch using the `git checkout` command:
 
 ```
-git checkout -b <your name>
+git checkout -b <your-name>
 ```
 
-Replace `<your name>` with your name. Don't include the angle brackets (<>).
+Replace `<your-name>` with your-name. Don't include the angle brackets (<>).
 
 ## Make necessary changes and commit those changes
 
-Now open `CONTRIBUTORS.md` file in a text editor, add your name to it. Now, save the file.
+Now open `CONTRIBUTORS.md` file in a text editor, add your-name to it. Now, save the file.
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
 
@@ -55,10 +55,10 @@ This adds only the changes made to the CONTRIBUTORS.md file.
 Now commit those changes using the `git commit` command:
 
 ```
-git commit -m "Add <your name> to Contributors list"
+git commit -m "Add <your-name> to Contributors list"
 ```
 
-replacing `<your name>` with your name.
+replacing `<your-name>` with your-name.
 
 ## Push changes to GitHub
 
