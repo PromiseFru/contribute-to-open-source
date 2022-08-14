@@ -13,7 +13,7 @@ This will create a copy of this repository in your account.
 
 ## Clone the repository
 
-Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the clone button and then click the _copy to clipboard_ icon.
+Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
 
 Open a terminal and run the following git command:
 
@@ -34,10 +34,10 @@ cd contribute-to-open-source
 Now create a branch using the `git checkout` command:
 
 ```
-git checkout -b <your-name>
+git checkout -b <your name>
 ```
 
-Replace `<your-name>` with your name. Don't include the angle brackets (<>).
+Replace `<your name>` with your name. Don't include the angle brackets (<>).
 
 ## Make necessary changes and commit those changes
 
@@ -50,14 +50,15 @@ Add those changes to the branch you just created using the `git add` command:
 ```
 git add CONTRIBUTORS.md
 ```
+This adds only the changes made to the CONTRIBUTORS.md file.
 
 Now commit those changes using the `git commit` command:
 
 ```
-git commit -m "Add <your-name> to Contributors list"
+git commit -m "Add <your name> to Contributors list"
 ```
 
-replacing `<your-name>` with your name.
+replacing `<your name>` with your name.
 
 ## Push changes to GitHub
 
