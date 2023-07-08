@@ -9,17 +9,23 @@ If you don't have git on your machine, [install it](https://help.github.com/arti
 
 ## Fork this repository
 
+<img src="images/2.png" width= "200px"/>
+
 This will create a copy of this repository in your account.
 
 ## Clone the repository
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
 
+<img src="images/4.png" width= "200px"/>
+
 Open a terminal and run the following git command:
 
 ```
 git clone "url you just copied"
 ```
+
+<img src="images/5.png" width= "200px"/>
 
 where "url you just copied" (without the quote marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
 
@@ -50,6 +56,7 @@ Add those changes to the branch you just created using the `git add` command:
 ```
 git add CONTRIBUTORS.md
 ```
+
 This adds only the changes made to the CONTRIBUTORS.md file.
 
 Now commit those changes using the `git commit` command:
