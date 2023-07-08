@@ -9,7 +9,7 @@ If you don't have git on your machine, [install it](https://help.github.com/arti
 
 ## Fork this repository
 
-<img src="images/2.png" width= "200px"/>
+<img src="images/2.png"/>
 
 This will create a copy of this repository in your account.
 
@@ -17,7 +17,7 @@ This will create a copy of this repository in your account.
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
 
-<img src="images/4.png" width= "200px"/>
+<img src="images/4.png"/>
 
 Open a terminal and run the following git command:
 
@@ -25,7 +25,7 @@ Open a terminal and run the following git command:
 git clone "url you just copied"
 ```
 
-<img src="images/5.png" width= "200px"/>
+<img src="images/5.png"/>
 
 where "url you just copied" (without the quote marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
 
